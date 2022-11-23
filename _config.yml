@@ -1,0 +1,61 @@
+title: David Kobalia
+description: David Kobalia's Personal Website
+baseurl: ""
+
+username: David Kobalia
+typing_text: Software Engineer / QA Tester
+
+email: daweedkob@gmail.com
+telegram_username: that_one_martian
+linkedin_username: the-david-kobalia
+github_username: daweedkob
+facebook_username: DaWeedGone
+viber_number: 995599014780
+
+show_aboutme_card: false
+about_me_title: About Me
+about_me_description: <empty>
+
+show_skills_card: true
+skills_title: Skills
+
+show_timeline_card: true
+timeline_title: Education & Experience
+cv_download_link: https://drive.google.com/file/d/1qeBuJLUDnrkYs4SglcZoibFnbjU24-hx/view
+
+show_projects_card: true
+show_projects: false
+projects_title: Work Projects
+show_os_projects: true
+os_projects_title: Portfolio Projects
+
+show_contact_card: true
+contact_title: Contacts
+contact_description: Feel free to contact me wherever is comfortable for you
+
+repository: daweedkob/daweedkob.github.io
+github_pages:
+  - sorting_algos
+  - character_encoder
+  - daweedkob.github.io
+  
+projects:
+  sort_by: stars
+  exclude:
+    archived: true
+    forks: true
+    projects:
+      - daweedkob
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]
