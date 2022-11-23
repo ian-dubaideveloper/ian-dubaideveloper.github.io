@@ -33,7 +33,7 @@ show_contact_card: true
 contact_title: Contacts
 contact_description: Feel free to contact me wherever is comfortable for you
 
-repository: daweedkob/daweedkob.github.io
+repository: ian-dubaideveloper/ian-dubaideveloper.github.io
 github_pages:
   - sorting_algos
   - character_encoder
