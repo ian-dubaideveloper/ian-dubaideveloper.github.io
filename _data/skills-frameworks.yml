@@ -1,5 +1,5 @@
-- name: Selenium
+- name: django
   weight: 5
 
-- name: Allure
+- name: node.js
   weight: 4
