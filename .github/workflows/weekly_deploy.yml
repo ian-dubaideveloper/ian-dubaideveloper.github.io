@@ -10,5 +10,5 @@ jobs:
     - name: curl
       uses: wei/curl@master
       with:
-        args: "-X POST -H 'Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}' -H 'Accept: application/vnd.github.ant-man-preview+json' https://api.github.com/repos/daweedkob/daweedkob.github.io/pages/builds"
+        args: "-X POST -H 'Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}' -H 'Accept: application/vnd.github.ant-man-preview+json' https://api.github.com/repos/ian-dubaideveloper/ian-dubaideveloper.github.io/pages/builds"
         

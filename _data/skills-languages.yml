@@ -12,3 +12,6 @@
 
 - name: Ruby
   weight: 2
+
+  - name: Node.js
+  weight: 3
