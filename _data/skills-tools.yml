@@ -1,14 +1,14 @@
 - name: GitLab
-  weight: 5
+  weight: 4
 
 - name: Git
   weight: 5
 
 - name: Bitbucket
-  weight: 5
+  weight: 2
 
 - name: SQL
-  weight: 5
+  weight: 4.5
 
 
 - name: Bash
@@ -18,5 +18,5 @@
   weight: 3
 
 - name: Docker
-  weight: 5
+  weight: 6
 
