@@ -13,14 +13,14 @@
   timeline-side: right
 
 
-- title: Nandi County Government
-  title-url: http://kanawasco.co.ke/
-  date: may 2022 - aug 2022
-  subtitle: Troubleshooter
-  tags:
-    - tag: Networking
-    - tag: Communications
-  timeline-side: right
+# - title: Nandi County Government
+#   title-url: http://kanawasco.co.ke/
+#   date: may 2022 - aug 2022
+#   subtitle: Troubleshooter
+#   tags:
+#     - tag: Networking
+#     - tag: Communications
+#   timeline-side: right
 
 - title: Kirinyaga University
   title-url: https://kyu.ac.ke/
