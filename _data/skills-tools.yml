@@ -18,4 +18,5 @@
   weight: 3
 
 - name: Docker
-  weight: 3
+  weight: 5
+
