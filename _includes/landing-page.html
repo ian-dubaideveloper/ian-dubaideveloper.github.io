@@ -68,21 +68,6 @@
         <span class="label">GitHub</span>
       </a>
       {% endif %}
-      
-      {% if site.viber_number != null %}
-      <a class="social-link viber" aria-label="My Viber" target="_blank" rel="noreferrer"
-         href="viber://chat?number={{site.viber_number}}">
-        <svg viewBox="0 0 200 200" class="circle">
-          <circle cx="100" cy="100" r="80" />
-        </svg>
-        <div class="social">
-          <svg class="social-svg" viewBox="0 0 48 48">
-            <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#viber' | prepend: site.baseurl }}"></use>
-          </svg>
-        </div>
-        <span class="label">Viber</span>
-      </a>
-      {% endif %}
 
       {% if site.facebook_username != null %}
       <a class="social-link facebook" aria-label="My Facebook" target="_blank"
