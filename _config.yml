@@ -1,27 +1,27 @@
-title: David Kobalia
-description: David Kobalia's Personal Website
+title: Ian Kiprotich Kosgei
+description: Ian Personal Website
 baseurl: ""
 
-username: David Kobalia
-typing_text: Software Engineer 
+username: Ian Kiprotich Kosgei
+typing_text: Software Engineer $ mentor
 
-email: daweedkob@gmail.com
-telegram_username: ian.dubaideveloper 
-linkedin_username: ian.dubaideveloper  
-github_username: ian.dubaideveloper 
-facebook_username: DaWeedGone
-viber_number: 995599014780
+email: ian.dubaideveloper@yahoo.com
+telegram_username: ian.dubaideveloper
+linkedin_username: ian.dubaideveloper
+github_username: ian-dubaideveloper
+facebook_username: ian.dubaideveloper
+viber_number: +254728737050
 
 show_aboutme_card: false
 about_me_title: About Me
-about_me_description: i am a winner
+about_me_description: <empty>
 
 show_skills_card: true
 skills_title: Skills
 
 show_timeline_card: true
 timeline_title: Education & Experience
-cv_download_link: https://drive.google.com/file/d/1qeBuJLUDnrkYs4SglcZoibFnbjU24-hx/view
+cv_download_link: 
 
 show_projects_card: true
 show_projects: false
@@ -37,7 +37,7 @@ repository: ian-dubaideveloper/ian-dubaideveloper.github.io
 github_pages:
   - sorting_algos
   - character_encoder
-  - daweedkob.github.io
+  - ian-dubaideveloper.github.io
   
 projects:
   sort_by: stars
@@ -45,7 +45,7 @@ projects:
     archived: true
     forks: true
     projects:
-      - daweedkob
+      - ian-dubaideveloper
 
 plugins:
   - "jekyll-github-metadata"
