@@ -1,27 +1,27 @@
-title: Ian Kiprotich Kosgei
-description: Ian Personal Website
+title: David Kobalia
+description: David Kobalia's Personal Website
 baseurl: ""
 
-username: Ian Kiprotich Kosgei
+username: David Kobalia
 typing_text: Software Engineer 
 
-email: ian.dubaideveloper@yahoo.com
-telegram_username: ian.dubaideveloper
-linkedin_username: ian.dubaideveloper
-github_username: ian-dubaideveloper
-facebook_username: ian.dubaideveloper
-viber_number: +254728737050
+email: daweedkob@gmail.com
+telegram_username: ian.dubaideveloper 
+linkedin_username: ian.dubaideveloper  
+github_username: ian.dubaideveloper 
+facebook_username: DaWeedGone
+viber_number: 995599014780
 
 show_aboutme_card: false
 about_me_title: About Me
-about_me_description: <empty>
+about_me_description: i am a winner
 
 show_skills_card: true
 skills_title: Skills
 
 show_timeline_card: true
 timeline_title: Education & Experience
-cv_download_link: 
+cv_download_link: https://drive.google.com/file/d/1qeBuJLUDnrkYs4SglcZoibFnbjU24-hx/view
 
 show_projects_card: true
 show_projects: false
@@ -37,7 +37,7 @@ repository: ian-dubaideveloper/ian-dubaideveloper.github.io
 github_pages:
   - sorting_algos
   - character_encoder
-  - ian-dubaideveloper.github.io
+  - daweedkob.github.io
   
 projects:
   sort_by: stars

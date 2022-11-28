@@ -1,5 +1,5 @@
-- name: django
+- name: Django
   weight: 5
 
-- name: node.js
+- name: Node.js
   weight: 4

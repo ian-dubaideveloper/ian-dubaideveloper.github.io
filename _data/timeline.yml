@@ -1,26 +1,27 @@
-- title: Kirinyaga University
-  title-url: https://kyu.ac.ke/
-  date: Sep 2022 - Present
-  subtitle: Software Engineer
-  tags:
-    - tag: Python
-    - tag: Git
-    - tag: Software Testing
-    - tag: Linux
-    - tag: SQL
-    - tag: Jenkins
-    - tag: Bitbucket
-  timeline-side: right
-
-
-# - title: Nandi County Government
-#   title-url: http://kanawasco.co.ke/
-#   date: may 2022 - aug 2022
-#   subtitle: Troubleshooter
+# - title: Exactpro Systems
+#   title-url: https://exactpro.com/
+#   date: Sep 2021 - Present
+#   subtitle: Software Engineer
 #   tags:
-#     - tag: Networking
-#     - tag: Communications
+#     - tag: Python
+#     - tag: Git
+#     - tag: Software Testing
+#     - tag: Linux
+#     - tag: SQL
+#     - tag: Jenkins
+#     - tag: Bitbucket
 #   timeline-side: right
+
+
+- title: Nandi County Government
+  title-url: https://kanawasco.co.ke
+  date: May 2022 - Aug 2022
+  subtitle: Troubleshooter
+  tags:
+    - tag: Networking
+    - tag: Communications
+    - tag: Zsmart
+  timeline-side: right
 
 - title: Kirinyaga University
   title-url: https://kyu.ac.ke/
