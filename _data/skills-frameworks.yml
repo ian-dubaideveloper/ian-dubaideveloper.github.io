@@ -1,5 +1,5 @@
 - name: Django
-  weight: 15
+  weight: 4
 
 - name: Node.js
-  weight: 20
+  weight: 6

@@ -1,11 +1,9 @@
 - name: Python
   weight: 6
 
-- name: JS
+- name: Js
   weight: 4
 
 - name: C
   weight: 5
 
-- name: Ruby
-  weight: 3
