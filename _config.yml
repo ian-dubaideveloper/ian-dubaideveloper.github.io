@@ -1,5 +1,5 @@
 title: Ian Kiprotich Kosgei
-description: Ian Personal Website
+description: Ian's Personal Website
 baseurl: ""
 
 username: Ian Kiprotich Kosgei
@@ -7,7 +7,7 @@ typing_text: Software Engineer $ mentor
 
 email: ian.dubaideveloper@yahoo.com
 telegram_username: ian.dubaideveloper
-linkedin_username: ian.dubaideveloper
+linkedin_username: Ian Kiprotich Kosgei
 github_username: ian-dubaideveloper
 facebook_username: ian.dubaideveloper
 whatsapp_number: +254728737050
@@ -35,8 +35,6 @@ contact_description: Feel free to contact me
 
 repository: ian-dubaideveloper/ian-dubaideveloper.github.io
 github_pages:
-  - sorting_algos
-  - character_encoder
   - ian-dubaideveloper.github.io
   
 projects:
