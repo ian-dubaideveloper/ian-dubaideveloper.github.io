@@ -4,8 +4,6 @@
 - name: Git
   weight: 4
 
-- name: Bitbucket
-  weight: 2
 
 - name: SQL
   weight: 5
