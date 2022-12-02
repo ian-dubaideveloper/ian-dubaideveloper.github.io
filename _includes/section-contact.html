@@ -12,16 +12,7 @@
   </a>
   {% endif %}
 
-  {% if site.telegram_username != null %}
-  <a class="social-link telegram" aria-label="My Telegram" target="_blank"
-     rel="noreferrer" href="https://telegram.me/{{site.telegram_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#telegram-plane' | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %} 
+  
 
   {% if site.linkedin_username != null %}
   <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"

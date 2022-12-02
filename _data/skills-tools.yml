@@ -10,7 +10,7 @@
 
 
 - name: Bash
-  weight: 2
+  weight: 3
 
 - name: Jenkins
   weight: 3
