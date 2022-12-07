@@ -19,8 +19,8 @@ jobs:
       # Commit the changes
       - name: Commit files
         run: |
-          git config user.email "alicia-gh-bot@mail.as93.net"
-          git config user.name "liss-bot"
+          git config user.email "ian.dubaideveloper@yahoo.com"
+          git config user.name "ian-dubaideveloper"
           git add .
           git commit -m ":snake: Updates Snake Contribution Animation"
       # Push the changes
