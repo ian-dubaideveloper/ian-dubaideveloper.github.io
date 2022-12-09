@@ -18,3 +18,6 @@
 - name: Docker
   weight: 5
 
+- name: GitKraken
+  weight: 4
+
