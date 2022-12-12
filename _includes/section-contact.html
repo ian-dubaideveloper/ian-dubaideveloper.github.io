@@ -12,16 +12,7 @@
   </a>
   {% endif %}
 
-  {% if site.telegram_username != null %}
-  <a class="social-link telegram" aria-label="My Telegram" target="_blank"
-     rel="noreferrer" href="https://telegram.me/{{site.telegram_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#telegram-plane' | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
+  
 
   {% if site.linkedin_username != null %}
   <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"
@@ -45,23 +36,12 @@
   </a>
   {% endif %}
 
-  {% if site.viber_number != null %}
+  {% if site.whatsapp_no != null %}
   <a class="social-link" aria-label="My Whatsapp" target="_blank"
-     rel="noreferrer" href="viber://chat?number={{site.viber_number}}">
+     rel="noreferrer" href="https://wa.me/+254728737050">
     <div class="social">
       <svg class="social-svg" viewBox="0 0 48 48">
         <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#viber' | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.facebook_username != null %}
-  <a class="social-link facebook" aria-label="My Facebook" target="_blank"
-     rel="noreferrer" href="https://facebook.com/{{site.facebook_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#facebook-f' | prepend: site.baseurl }}"></use>
       </svg>
     </div>
   </a>
