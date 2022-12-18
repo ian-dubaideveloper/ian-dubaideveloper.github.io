@@ -1,27 +1,26 @@
 title: Ian Kiprotich Kosgei
-description: Ian Personal Website
+description: Ian's Personal Website
 baseurl: ""
 
 username: Ian Kiprotich Kosgei
-typing_text: Software Engineer 
+typing_text: Software Engineer $ mentor
 
 email: ian.dubaideveloper@yahoo.com
-telegram_username: ian.dubaideveloper
-linkedin_username: ian.dubaideveloper
+linkedin_username: ian-dubaideveloper
 github_username: ian-dubaideveloper
 facebook_username: ian.dubaideveloper
-viber_number: +254728737050
+whatsapp_number: +254728737050
 
 show_aboutme_card: false
 about_me_title: About Me
-about_me_description: <empty>
+about_me_description: i am a winner
 
 show_skills_card: true
 skills_title: Skills
 
 show_timeline_card: true
 timeline_title: Education & Experience
-cv_download_link: 
+cv_download_link: https://drive.google.com/file/d/1FiA6C63aid4u6odYy7FtguDgL5wD2_LW/view?usp=sharing
 
 show_projects_card: true
 show_projects: false
@@ -31,12 +30,10 @@ os_projects_title: Portfolio Projects
 
 show_contact_card: true
 contact_title: Contacts
-contact_description: Feel free to contact me wherever is comfortable for you
+contact_description: Feel free to contact me 
 
 repository: ian-dubaideveloper/ian-dubaideveloper.github.io
 github_pages:
-  - sorting_algos
-  - character_encoder
   - ian-dubaideveloper.github.io
   
 projects:

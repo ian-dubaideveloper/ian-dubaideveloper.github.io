@@ -1,20 +1,9 @@
 - name: Python
-  weight: 5
+  weight: 6
 
-- name: JS
-  weight: 4
-
-- name: C++
+- name: Js
   weight: 4
 
 - name: C
-  weight: 3
+  weight: 5
 
-- name: Html5
-  weight: 2
-
-  - name: Node.js
-  weight: 3
-
-  - name: CSS3
-  weight: 3
