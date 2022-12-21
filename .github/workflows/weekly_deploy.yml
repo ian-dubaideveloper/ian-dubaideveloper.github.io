@@ -2,7 +2,7 @@ name: Weekly deploy
 
 on:
   schedule:
-   - cron: '0 0 * * 0'
+   - cron: '2300 * * 0'
 jobs:
   curl:
     runs-on: ubuntu-latest
