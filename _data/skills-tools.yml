@@ -28,3 +28,5 @@
 - name: Gitkraken  
   weight: 5
 
+-name: ChatGpt
+weight: 6
