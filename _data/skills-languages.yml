@@ -1,0 +1,9 @@
+- name: Python
+  weight: 5
+
+- name: Js
+  weight: 4
+
+- name: C
+  weight: 3
+

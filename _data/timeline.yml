@@ -1,0 +1,35 @@
+- title: Self Employed
+  title-url: https://iandubaideveloper.me/
+  date: Sep 2022 - Present
+  subtitle: Software Engineer
+  tags:
+    - tag: Python
+    - tag: Git
+    - tag: Software Testing
+    - tag: Linux
+    - tag: SQL
+    - tag: Jenkins
+    - tag: Bitbucket
+    - tag: GitKraken
+  timeline-side: right
+
+
+- title: Nandi County Government
+
+  title-url: https://kanawasco.co.ke
+  date: May 2022 - Aug 2022
+
+  title-url: http://kanawasco.co.ke/
+  date: may 2022 - aug 2022
+
+  subtitle: Troubleshooter
+  tags:
+    - tag: Networking
+    - tag: Communications
+  timeline-side: right
+
+- title: Kirinyaga University
+  title-url: https://kyu.ac.ke/
+  date: 2020 - 2024
+  subtitle: Bachelor of Software Engineering
+  timeline-side: left

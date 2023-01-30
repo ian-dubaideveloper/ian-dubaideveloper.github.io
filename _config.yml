@@ -1,0 +1,58 @@
+title: Ian Kiprotich Kosgei
+description: Ian's Personal Website
+baseurl: ""
+
+username: Ian Kiprotich Kosgei
+typing_text: Software Engineer $ mentor
+
+email: ian.dubaideveloper@yahoo.com
+linkedin_username: ian-dubaideveloper
+github_username: ian-dubaideveloper
+facebook_username: ian.dubaideveloper
+whatsapp_number: +254728737050
+
+show_aboutme_card: false
+about_me_title: About Me
+about_me_description: i am a winner
+
+show_skills_card: true
+skills_title: Skills
+
+show_timeline_card: true
+timeline_title: Education & Experience
+cv_download_link: https://drive.google.com/file/d/1FiA6C63aid4u6odYy7FtguDgL5wD2_LW/view?usp=sharing
+
+show_projects_card: true
+show_projects: false
+projects_title: Work Projects
+show_os_projects: true
+os_projects_title: Portfolio Projects
+
+show_contact_card: true
+contact_title: Contacts
+contact_description: Feel free to contact me 
+
+repository: ian-dubaideveloper/ian-dubaideveloper.github.io
+github_pages:
+  - ian-dubaideveloper.github.io
+  
+projects:
+  sort_by: stars
+  exclude:
+    archived: true
+    forks: true
+    projects:
+      - ian-dubaideveloper
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]
